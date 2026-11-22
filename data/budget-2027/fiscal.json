@@ -1,0 +1,416 @@
+{
+  "document_id": "budget-2027",
+  "source_section": "A3",
+  "source_title": "Summary of the Budget Estimates - 2027",
+  "scenario_labels": {
+    "2025_provisional": "2025 (Provisional)",
+    "2026_revised": "2026 Revised Estimates",
+    "2027_budget": "2027 Budget",
+    "2027_budget_with_supplementary": "2027 Budget (With Supplementary)"
+  },
+  "reconciliation_map": {
+    "Total Revenue and Grants": [
+      "Total Revenue",
+      "Grants"
+    ],
+    "Total Revenue": [
+      "Tax Revenue",
+      "Non-Tax Revenue"
+    ],
+    "Tax Revenue": [
+      "Income Tax",
+      "Taxes on Goods and Services",
+      "Taxes on External Trade"
+    ],
+    "Total Expenditure": [
+      "Recurrent",
+      "Public Investment",
+      "Other"
+    ],
+    "Recurrent": [
+      "Salaries and Wages",
+      "Other Goods and Services",
+      "Interest",
+      "Subsidies and Transfers"
+    ]
+  },
+  "validation": {
+    "ok": true,
+    "issues": []
+  },
+  "tables": [
+    {
+      "unit": "lkr_billion",
+      "scenarios": [
+        "2025_provisional",
+        "2026_revised",
+        "2027_budget",
+        "2027_budget_with_supplementary"
+      ],
+      "rows": [
+        {
+          "label": "Total Revenue and Grants",
+          "values": {
+            "2025_provisional": 5486.0,
+            "2026_revised": 5981.0,
+            "2027_budget": 6180.0,
+            "2027_budget_with_supplementary": 6180.0
+          }
+        },
+        {
+          "label": "Total Revenue",
+          "values": {
+            "2025_provisional": 5449.0,
+            "2026_revised": 5951.0,
+            "2027_budget": 6150.0,
+            "2027_budget_with_supplementary": 6150.0
+          }
+        },
+        {
+          "label": "Tax Revenue",
+          "values": {
+            "2025_provisional": 5049.0,
+            "2026_revised": 5478.0,
+            "2027_budget": 5687.0,
+            "2027_budget_with_supplementary": 5687.0
+          }
+        },
+        {
+          "label": "Income Tax",
+          "values": {
+            "2025_provisional": 1139.0,
+            "2026_revised": 1311.0,
+            "2027_budget": 1341.0,
+            "2027_budget_with_supplementary": 1341.0
+          }
+        },
+        {
+          "label": "Taxes on Goods and Services",
+          "values": {
+            "2025_provisional": 3198.0,
+            "2026_revised": 3454.0,
+            "2027_budget": 3592.0,
+            "2027_budget_with_supplementary": 3592.0
+          }
+        },
+        {
+          "label": "Taxes on External Trade",
+          "values": {
+            "2025_provisional": 712.0,
+            "2026_revised": 713.0,
+            "2027_budget": 754.0,
+            "2027_budget_with_supplementary": 754.0
+          }
+        },
+        {
+          "label": "Non-Tax Revenue",
+          "values": {
+            "2025_provisional": 400.0,
+            "2026_revised": 473.0,
+            "2027_budget": 463.0,
+            "2027_budget_with_supplementary": 463.0
+          }
+        },
+        {
+          "label": "Grants",
+          "values": {
+            "2025_provisional": 36.0,
+            "2026_revised": 30.0,
+            "2027_budget": 30.0,
+            "2027_budget_with_supplementary": 30.0
+          }
+        },
+        {
+          "label": "Total Expenditure",
+          "values": {
+            "2025_provisional": 6230.0,
+            "2026_revised": 7309.0,
+            "2027_budget": 7673.0,
+            "2027_budget_with_supplementary": 7933.0
+          }
+        },
+        {
+          "label": "Recurrent",
+          "values": {
+            "2025_provisional": 5232.0,
+            "2026_revised": 5848.0,
+            "2027_budget": 5934.0,
+            "2027_budget_with_supplementary": 5944.0
+          }
+        },
+        {
+          "label": "Salaries and Wages",
+          "values": {
+            "2025_provisional": 1164.0,
+            "2026_revised": 1289.0,
+            "2027_budget": 1410.0,
+            "2027_budget_with_supplementary": 1410.0
+          }
+        },
+        {
+          "label": "Other Goods and Services",
+          "values": {
+            "2025_provisional": 335.0,
+            "2026_revised": 370.0,
+            "2027_budget": 409.0,
+            "2027_budget_with_supplementary": 409.0
+          }
+        },
+        {
+          "label": "Interest",
+          "values": {
+            "2025_provisional": 2501.0,
+            "2026_revised": 2617.0,
+            "2027_budget": 2643.0,
+            "2027_budget_with_supplementary": 2643.0
+          }
+        },
+        {
+          "label": "Subsidies and Transfers",
+          "values": {
+            "2025_provisional": 1233.0,
+            "2026_revised": 1572.0,
+            "2027_budget": 1472.0,
+            "2027_budget_with_supplementary": 1482.0
+          }
+        },
+        {
+          "label": "Public Investment",
+          "values": {
+            "2025_provisional": 1016.0,
+            "2026_revised": 1480.0,
+            "2027_budget": 1750.0,
+            "2027_budget_with_supplementary": 2000.0
+          }
+        },
+        {
+          "label": "Other",
+          "values": {
+            "2025_provisional": -18.0,
+            "2026_revised": -19.0,
+            "2027_budget": -11.0,
+            "2027_budget_with_supplementary": -11.0
+          }
+        },
+        {
+          "label": "Revenue Surplus/Deficit",
+          "values": {
+            "2025_provisional": 217.0,
+            "2026_revised": 103.0,
+            "2027_budget": 216.0,
+            "2027_budget_with_supplementary": 206.0
+          }
+        },
+        {
+          "label": "Primary Surplus/Deficit",
+          "values": {
+            "2025_provisional": 1756.0,
+            "2026_revised": 1289.0,
+            "2027_budget": 1150.0,
+            "2027_budget_with_supplementary": 890.0
+          }
+        },
+        {
+          "label": "Budget Surplus/Deficit",
+          "values": {
+            "2025_provisional": -745.0,
+            "2026_revised": -1328.0,
+            "2027_budget": -1493.0,
+            "2027_budget_with_supplementary": -1753.0
+          }
+        },
+        {
+          "label": "Total Financing",
+          "values": {
+            "2025_provisional": 745.0,
+            "2026_revised": 1328.0,
+            "2027_budget": 1493.0,
+            "2027_budget_with_supplementary": 1753.0
+          }
+        },
+        {
+          "label": "Total Foreign Financing",
+          "values": {
+            "2025_provisional": 142.0,
+            "2026_revised": 200.0,
+            "2027_budget": 110.0,
+            "2027_budget_with_supplementary": 110.0
+          }
+        },
+        {
+          "label": "Foreign Borrowings-Gross",
+          "values": {
+            "2025_provisional": 567.0,
+            "2026_revised": 700.0,
+            "2027_budget": 700.0,
+            "2027_budget_with_supplementary": 700.0
+          }
+        },
+        {
+          "label": "Debt Repayment",
+          "values": {
+            "2025_provisional": -424.0,
+            "2026_revised": -500.0,
+            "2027_budget": -590.0,
+            "2027_budget_with_supplementary": -590.0
+          }
+        },
+        {
+          "label": "Total Domestic Financing",
+          "values": {
+            "2025_provisional": 602.0,
+            "2026_revised": 1128.0,
+            "2027_budget": 1383.0,
+            "2027_budget_with_supplementary": 1643.0
+          }
+        },
+        {
+          "label": "Non - Bank Borrowings (Net)",
+          "values": {
+            "2025_provisional": 496.0,
+            "2026_revised": 1128.0,
+            "2027_budget": 1383.0,
+            "2027_budget_with_supplementary": 1383.0
+          }
+        },
+        {
+          "label": "Bank Borrowings and Other (Net)",
+          "values": {
+            "2025_provisional": 106.0,
+            "2026_revised": 0.0,
+            "2027_budget": 0.0,
+            "2027_budget_with_supplementary": 260.0
+          }
+        }
+      ]
+    },
+    {
+      "unit": "percent_of_gdp",
+      "scenarios": [
+        "2025_provisional",
+        "2026_revised",
+        "2027_budget",
+        "2027_budget_with_supplementary"
+      ],
+      "rows": [
+        {
+          "label": "Total Revenue and Grants",
+          "values": {
+            "2025_provisional": 16.7,
+            "2026_revised": 16.6,
+            "2027_budget": 15.8,
+            "2027_budget_with_supplementary": 15.8
+          }
+        },
+        {
+          "label": "Total Revenue",
+          "values": {
+            "2025_provisional": 16.6,
+            "2026_revised": 16.5,
+            "2027_budget": 15.8,
+            "2027_budget_with_supplementary": 15.8
+          }
+        },
+        {
+          "label": "Tax Revenue",
+          "values": {
+            "2025_provisional": 15.4,
+            "2026_revised": 15.2,
+            "2027_budget": 14.6,
+            "2027_budget_with_supplementary": 14.6
+          }
+        },
+        {
+          "label": "Non Tax Revenue",
+          "values": {
+            "2025_provisional": 1.2,
+            "2026_revised": 1.3,
+            "2027_budget": 1.2,
+            "2027_budget_with_supplementary": 1.2
+          }
+        },
+        {
+          "label": "Grants",
+          "values": {
+            "2025_provisional": 0.1,
+            "2026_revised": 0.1,
+            "2027_budget": 0.1,
+            "2027_budget_with_supplementary": 0.1
+          }
+        },
+        {
+          "label": "Total Expenditure",
+          "values": {
+            "2025_provisional": 19.0,
+            "2026_revised": 20.3,
+            "2027_budget": 19.7,
+            "2027_budget_with_supplementary": 20.3
+          }
+        },
+        {
+          "label": "Recurrent Expenditure",
+          "values": {
+            "2025_provisional": 16.0,
+            "2026_revised": 16.2,
+            "2027_budget": 15.2,
+            "2027_budget_with_supplementary": 15.2
+          }
+        },
+        {
+          "label": "Non Interest",
+          "values": {
+            "2025_provisional": 8.3,
+            "2026_revised": 9.0,
+            "2027_budget": 8.4,
+            "2027_budget_with_supplementary": 8.5
+          }
+        },
+        {
+          "label": "Interest",
+          "values": {
+            "2025_provisional": 7.6,
+            "2026_revised": 7.3,
+            "2027_budget": 6.8,
+            "2027_budget_with_supplementary": 6.8
+          }
+        },
+        {
+          "label": "Public Investment",
+          "values": {
+            "2025_provisional": 3.1,
+            "2026_revised": 4.1,
+            "2027_budget": 4.5,
+            "2027_budget_with_supplementary": 5.1
+          }
+        },
+        {
+          "label": "Revenue Surplus/Deficit",
+          "values": {
+            "2025_provisional": 0.7,
+            "2026_revised": 0.3,
+            "2027_budget": 0.6,
+            "2027_budget_with_supplementary": 0.5
+          }
+        },
+        {
+          "label": "Primary Surplus/Deficit",
+          "values": {
+            "2025_provisional": 5.4,
+            "2026_revised": 3.6,
+            "2027_budget": 2.9,
+            "2027_budget_with_supplementary": 2.3
+          }
+        },
+        {
+          "label": "Budget Surplus/Deficit",
+          "values": {
+            "2025_provisional": -2.3,
+            "2026_revised": -3.7,
+            "2027_budget": -3.8,
+            "2027_budget_with_supplementary": -4.5
+          }
+        }
+      ]
+    }
+  ]
+}

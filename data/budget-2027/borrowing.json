@@ -1,0 +1,52 @@
+{
+  "document_id": "budget-2027",
+  "source_section": "A4",
+  "source_title": "Gross Borrowings Requirement - 2027",
+  "unit": "LKR billion",
+  "items": [
+    {
+      "item": "Total Receipts other than Government Borrowings",
+      "amount_rs_bn": 6230.0
+    },
+    {
+      "item": "Total Primary Expenditure",
+      "amount_rs_bn": 5070.0
+    },
+    {
+      "item": "Recurrent",
+      "amount_rs_bn": 3320.0
+    },
+    {
+      "item": "Capital",
+      "amount_rs_bn": 1750.0
+    },
+    {
+      "item": "Debt Service Payments",
+      "amount_rs_bn": 4850.0
+    },
+    {
+      "item": "Interest Payments",
+      "amount_rs_bn": 2643.0
+    },
+    {
+      "item": "Debt Repayments",
+      "amount_rs_bn": 2207.0
+    },
+    {
+      "item": "Provision for Advanced Accounts",
+      "amount_rs_bn": 10.0
+    },
+    {
+      "item": "Adjustments for book/cash Value of Government Securities",
+      "amount_rs_bn": 100.0
+    },
+    {
+      "item": "Total Gross Borrowing Requirement to be recorded in Government Accounts",
+      "amount_rs_bn": 3800.0
+    }
+  ],
+  "validation": {
+    "ok": true,
+    "issues": []
+  }
+}

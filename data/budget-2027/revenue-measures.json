@@ -1,0 +1,45 @@
+{
+  "document_id": "budget-2027",
+  "source_section": "A1",
+  "source_title": "Summary of Revenue Impact - 2027",
+  "unit": "LKR million",
+  "note": "Negative values are revenue forgone. Parentheses in the source denote negatives.",
+  "measures": [
+    {
+      "measure": "Revision of the Special Commodity Levy",
+      "annual_impact_rs_mn": 950.0,
+      "effective": "November 2026"
+    },
+    {
+      "measure": "Revision of the Ports and Airports Development Levy",
+      "annual_impact_rs_mn": -350.0,
+      "effective": "January 2027"
+    },
+    {
+      "measure": "Income Tax Revisions",
+      "annual_impact_rs_mn": -16000.0,
+      "effective": "April 2027"
+    },
+    {
+      "measure": "Phased removal of CESS – Second Phase",
+      "annual_impact_rs_mn": -10000.0,
+      "effective": "April 2027"
+    },
+    {
+      "measure": "Revision of Value Added Tax",
+      "annual_impact_rs_mn": -2975.0,
+      "effective": "April 2027"
+    },
+    {
+      "measure": "Abolishment of the Tourism Development Levy",
+      "annual_impact_rs_mn": -40.0,
+      "effective": "April 2027"
+    }
+  ],
+  "total_annual_impact_rs_mn": -28415.0,
+  "impact_for_2027_rs_mn": -21150.0,
+  "validation": {
+    "ok": true,
+    "issues": []
+  }
+}
