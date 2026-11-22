@@ -1,0 +1,18 @@
+{
+  "$comment": "Pinned sources. The sha256 is checked by verify.py (check 1) before anything is extracted.",
+  "sources": [
+    {
+      "document_id": "budget-2027",
+      "title": "Budget Speech 2027",
+      "subtitle": "81st Budget Speech of Sri Lanka",
+      "publisher": "Ministry of Finance, Planning and Economic Development, Colombo 01",
+      "url": "https://www.treasury.gov.lk/api/file/ea495202-fcb1-4c78-b34e-58389cb20738",
+      "path": "sources/budget-2027/budget-speech-2027.pdf",
+      "sha256": "d3597453be672b9c2c4ef7e0c5c829a0abab33a64a84bc438b9ec53f084b24ac",
+      "bytes": 4428458,
+      "retrieved": "2026-11-21",
+      "pages": 367,
+      "rights": "Rights in the original remain with the Government of Sri Lanka. Committed here so the transformation is independently reproducible."
+    }
+  ]
+}

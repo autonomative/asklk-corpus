@@ -1,0 +1,3 @@
+# Pinned: extraction output depends on the library version, so determinism
+# (verification check 2) requires an exact pin.
+pypdf==7.1.1

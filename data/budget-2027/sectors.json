@@ -1,0 +1,515 @@
+{
+  "document_id": "budget-2027",
+  "source_section": "A7",
+  "source_title": "Summary of Key New Capital Expenditure included in the 2027 Estimates",
+  "printed_pages": [
+    "103",
+    null
+  ],
+  "unit": "LKR million",
+  "grand_total_rs_mn": 132000,
+  "project_count": 84,
+  "validation": {
+    "ok": true,
+    "issues": []
+  },
+  "sectors": [
+    {
+      "sector": "Transport",
+      "projects": [
+        {
+          "serial": 10,
+          "name": "Metro EV Bus Development project",
+          "amount_rs_mn": 4500
+        },
+        {
+          "serial": 11,
+          "name": "Preparatory activities for proposed projects related to the transport sector",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 12,
+          "name": "Digital Driver D-Merit Point and Road Safety Enforcement Platform",
+          "amount_rs_mn": 1500
+        },
+        {
+          "serial": 13,
+          "name": "Railway Station Modernization and Standardization",
+          "amount_rs_mn": 2000
+        },
+        {
+          "serial": 14,
+          "name": "Vehicle Registration and Transfer System of the Department of Motor Traffic",
+          "amount_rs_mn": 700
+        },
+        {
+          "serial": 15,
+          "name": "Improvement of Panadura - Nambapana- Ratnapura Road (A008) from Ingiriya to Rathnapura",
+          "amount_rs_mn": 2800
+        },
+        {
+          "serial": 16,
+          "name": "Construction of a flyover over the railway line near the Kandy Post Office",
+          "amount_rs_mn": 1200
+        },
+        {
+          "serial": 17,
+          "name": "Construction of Kiran and Pondukalchenai Bridges",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 18,
+          "name": "Development of access roads to the Angampitiya - Nawala Bridge to establish a connection between the B120 and B470 roads",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 19,
+          "name": "Construction of bridge and road across Kokilai Lagoon",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 20,
+          "name": "Construction of Flyovers over the Railway Crossing at Alawwa and Muththettugala",
+          "amount_rs_mn": 700
+        },
+        {
+          "serial": 21,
+          "name": "Roads Widening and improvement (New Programme)",
+          "amount_rs_mn": 4000
+        },
+        {
+          "serial": 22,
+          "name": "Rural road (New Programme)",
+          "amount_rs_mn": 4000
+        },
+        {
+          "serial": 23,
+          "name": "Replacement of the Vessel Management System and Modernization of the Marine Navigation Support System at the Port of Colombo",
+          "amount_rs_mn": 575
+        }
+      ],
+      "total_rs_mn": 24175,
+      "project_count": 14
+    },
+    {
+      "sector": "Public Service",
+      "projects": [
+        {
+          "serial": 71,
+          "name": "Sethsiripaya - Stage III",
+          "amount_rs_mn": 6800
+        },
+        {
+          "serial": 72,
+          "name": "Construction of new Divisional Secretariats in Dehiattakandiya and Elapatha",
+          "amount_rs_mn": 265
+        },
+        {
+          "serial": 73,
+          "name": "Construction of new district secretariat complexes in Vavuniya, Puttalam and Anuradhapura",
+          "amount_rs_mn": 1100
+        },
+        {
+          "serial": 74,
+          "name": "Local Authorities Revenue Enhancement Project",
+          "amount_rs_mn": 1000
+        },
+        {
+          "serial": 75,
+          "name": "Strengthening pioneering institutions in digitalization, related policies and regulations",
+          "amount_rs_mn": 1400
+        },
+        {
+          "serial": 76,
+          "name": "Digital Government Transformation",
+          "amount_rs_mn": 9490
+        },
+        {
+          "serial": 77,
+          "name": "Facilitating access to digitalization and developing the necessary capacity",
+          "amount_rs_mn": 2700
+        }
+      ],
+      "total_rs_mn": 22755,
+      "project_count": 7
+    },
+    {
+      "sector": "Agriculture",
+      "projects": [
+        {
+          "serial": 43,
+          "name": "National Field Crop Production Programme",
+          "amount_rs_mn": 800
+        },
+        {
+          "serial": 44,
+          "name": "Importation of 2,000 No. of Sheep for breeding",
+          "amount_rs_mn": 1000
+        },
+        {
+          "serial": 45,
+          "name": "National Programme for Paddy Productivity Enhancement through Advanced Yaya",
+          "amount_rs_mn": 400
+        },
+        {
+          "serial": 46,
+          "name": "Kivul Oya Reservoir Project",
+          "amount_rs_mn": 2000
+        },
+        {
+          "serial": 47,
+          "name": "Wari Mahima – Our Heritage Programme",
+          "amount_rs_mn": 2500
+        },
+        {
+          "serial": 48,
+          "name": "Lower Malwathu Oya – Multi-Sector Development Project",
+          "amount_rs_mn": 7500
+        },
+        {
+          "serial": 49,
+          "name": "Maduru Oya Right Bank Development Project",
+          "amount_rs_mn": 1500
+        },
+        {
+          "serial": 50,
+          "name": "Completion of Balance works, of the Climate Resilience Multi Phase Approach under local funds",
+          "amount_rs_mn": 3055
+        },
+        {
+          "serial": 51,
+          "name": "Improving food security through modernized irrigation",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 52,
+          "name": "Mahakithula Inlet Tunnel Project",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 53,
+          "name": "Establish 500 Tea Village",
+          "amount_rs_mn": 730
+        },
+        {
+          "serial": 54,
+          "name": "Fisheries Research, Innovation Technology and Commercialization",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 55,
+          "name": "National Fisheries Quality Assurance, Safety & Laboratory Network Project",
+          "amount_rs_mn": 770
+        },
+        {
+          "serial": 56,
+          "name": "Preparatory activities for proposed projects related to the fisheries sector",
+          "amount_rs_mn": 300
+        }
+      ],
+      "total_rs_mn": 22355,
+      "project_count": 14
+    },
+    {
+      "sector": "Decent Living",
+      "projects": [
+        {
+          "serial": 24,
+          "name": "Relocation of Government Quarters for the Development of Ratnapura City",
+          "amount_rs_mn": 1000
+        },
+        {
+          "serial": 25,
+          "name": "Construction of two housing complexes in Meethotamulla and one housing complex in Wilgoda, Kurunegala for low-income people",
+          "amount_rs_mn": 5200
+        },
+        {
+          "serial": 26,
+          "name": "Surveys and Studies related Urban Development Activities",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 27,
+          "name": "Dehiwala Metro Bus Terminal and Facility Center",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 28,
+          "name": "Bus Stand , Children Park and Primary School Development at Deiyandara",
+          "amount_rs_mn": 750
+        },
+        {
+          "serial": 29,
+          "name": "Construction of a reservoir in the Yatimahana area to collect upstream water from the Ma- Oya",
+          "amount_rs_mn": 300
+        },
+        {
+          "serial": 30,
+          "name": "Greater Galle Water Supply Project",
+          "amount_rs_mn": 3000
+        },
+        {
+          "serial": 31,
+          "name": "Haldummulla Beragala Water Supply Scheme",
+          "amount_rs_mn": 700
+        },
+        {
+          "serial": 32,
+          "name": "Kuliyapitiya Water Supply Scheme – Feasibility Study",
+          "amount_rs_mn": 250
+        },
+        {
+          "serial": 33,
+          "name": "Valachchenai Water Supply Scheme",
+          "amount_rs_mn": 300
+        },
+        {
+          "serial": 34,
+          "name": "Central upper Watershed Ecological restoration and Management Programme",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 35,
+          "name": "Mudun Ela Storm Water Drainage and Environmental Improvement Project",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 36,
+          "name": "Installation of Gate Mounted Pumps at Kalu Palama for Flood Mitigation",
+          "amount_rs_mn": 600
+        },
+        {
+          "serial": 37,
+          "amount_rs_mn": 590,
+          "name": "Improve the sustainability and environmental value of Bellanwila Park, Kimbulawala and Japan Friendship Walkways, Kirulapona Canal, St. Sebestian Canals"
+        },
+        {
+          "serial": 38,
+          "name": "Kandy Municipal Non-Revenue water Reduction & Rehabilitation Project",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 39,
+          "name": "Strengthening of emergency response and early warning capacity",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 40,
+          "name": "Establish Multi Hazard warning communication system",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 41,
+          "name": "Establishing a national level digital radio communication system for disaster management",
+          "amount_rs_mn": 670
+        },
+        {
+          "serial": 42,
+          "name": "Disaster Resilient Safety Centeres Renovation programme",
+          "amount_rs_mn": 1000
+        }
+      ],
+      "total_rs_mn": 17960,
+      "project_count": 19
+    },
+    {
+      "sector": "Housing",
+      "projects": [
+        {
+          "serial": 57,
+          "name": "Renovation of buildings, common amenities and the Sewerage systems of old Housing schemes",
+          "amount_rs_mn": 2000
+        },
+        {
+          "serial": 58,
+          "name": "Proposed resettlement housing project at Aramaya place",
+          "amount_rs_mn": 2145
+        },
+        {
+          "serial": 59,
+          "name": "Resettlement / Permanent Houses for the Conflict Affected Families",
+          "amount_rs_mn": 6000
+        }
+      ],
+      "total_rs_mn": 10145,
+      "project_count": 3
+    },
+    {
+      "sector": "Education",
+      "projects": [
+        {
+          "serial": 1,
+          "name": "Human Resource Development Programme for Education",
+          "amount_rs_mn": 2000
+        },
+        {
+          "serial": 2,
+          "name": "Digital Transformation of General Education",
+          "amount_rs_mn": 4000
+        },
+        {
+          "serial": 3,
+          "name": "Development and Modernization of School Laboratories",
+          "amount_rs_mn": 510
+        },
+        {
+          "serial": 4,
+          "name": "Construction of the Faculty of Commerce and Management Studies, University of Kelaniya",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 5,
+          "name": "Pre-Preparatory Activities for the Proposed Projects of Higher Education",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 6,
+          "name": "Academic and student facilities at the University of Vocational Technology",
+          "amount_rs_mn": 800
+        },
+        {
+          "serial": 7,
+          "name": "Upgrading technical colleges into centers of excellence",
+          "amount_rs_mn": 1500
+        }
+      ],
+      "total_rs_mn": 9810,
+      "project_count": 7
+    },
+    {
+      "sector": "National Security",
+      "projects": [
+        {
+          "serial": 79,
+          "name": "Digital and Cyber Infrastructure of the Ministry of Defence",
+          "amount_rs_mn": 740
+        },
+        {
+          "serial": 80,
+          "name": "Enhancement of Sri Lanka Navy Habour Operations",
+          "amount_rs_mn": 1100
+        },
+        {
+          "serial": 81,
+          "name": "Enhancing Maritime Capabilities of Sri Lanka Navy",
+          "amount_rs_mn": 1490
+        },
+        {
+          "serial": 82,
+          "name": "Construction of 04 Nos Wave Rider Patrol Craft",
+          "amount_rs_mn": 525
+        },
+        {
+          "serial": 83,
+          "name": "strengthening Oil Spill Response Capabilities",
+          "amount_rs_mn": 3380
+        }
+      ],
+      "total_rs_mn": 7235,
+      "project_count": 5
+    },
+    {
+      "sector": "Peaceful and Fair Society",
+      "projects": [
+        {
+          "serial": 60,
+          "name": "Relocation of Matara Prison at Kotawilawaththa Area Matara",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 61,
+          "name": "Expansion of Wariyapola Remand Prison",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 62,
+          "name": "Construction of Watareka Prison Complex - Stage II",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 63,
+          "name": "Development of Infrastructure in the Judicial Sector",
+          "amount_rs_mn": 800
+        },
+        {
+          "serial": 64,
+          "name": "Development of National Police Academy",
+          "amount_rs_mn": 200
+        },
+        {
+          "serial": 65,
+          "name": "Construction of Administrative Building for CID",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 66,
+          "name": "Construction of the ward complex and accommodation building at the Narahenpita Police Hospital",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 67,
+          "name": "Modernizing the Sri Lanka Police communication network",
+          "amount_rs_mn": 900
+        },
+        {
+          "serial": 68,
+          "name": "Establishment of Immigration Temporary Holding Facility",
+          "amount_rs_mn": 500
+        },
+        {
+          "serial": 69,
+          "name": "Upgrading of the existing systems of Department of Immigration & Emigration",
+          "amount_rs_mn": 750
+        },
+        {
+          "serial": 70,
+          "name": "Enhancement of the Security of the Boarder System in the Department of Immigration & Emigration",
+          "amount_rs_mn": 1000
+        }
+      ],
+      "total_rs_mn": 6650,
+      "project_count": 11
+    },
+    {
+      "sector": "Health",
+      "projects": [
+        {
+          "serial": 8,
+          "name": "Capacity Improvement of Suwa Seriya Ambulance Service",
+          "amount_rs_mn": 1985
+        },
+        {
+          "serial": 9,
+          "name": "\"Arogya\" Wellness Centers",
+          "amount_rs_mn": 3600
+        }
+      ],
+      "total_rs_mn": 5585,
+      "project_count": 2
+    },
+    {
+      "sector": "Energy",
+      "projects": [
+        {
+          "serial": 84,
+          "name": "Establishment of Four Electricity Distribution Control Centers",
+          "amount_rs_mn": 5130
+        }
+      ],
+      "total_rs_mn": 5130,
+      "project_count": 1
+    },
+    {
+      "sector": "Economic Service",
+      "projects": [
+        {
+          "serial": 78,
+          "name": "Development of Postal head quarters",
+          "amount_rs_mn": 200
+        }
+      ],
+      "total_rs_mn": 200,
+      "project_count": 1
+    }
+  ]
+}

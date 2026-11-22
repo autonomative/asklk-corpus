@@ -1,0 +1,26 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of their rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+── SCOPE ──────────────────────────────────────────────────────────────────────
+
+This dedication applies ONLY to this project's transformation of the source
+documents: the extraction, the structuring into sections and chunks, the
+metadata, the table of contents, the derived datasets and the tooling.
+
+It does NOT and CANNOT apply to the underlying documents themselves. Rights in
+those remain with their publishers — for the current corpus, the Government of
+Sri Lanka. We assert no rights over those works and grant none. If you reuse
+the text of a source document you are dealing with that publisher's work, not
+ours, and their terms govern.
+
+The source PDFs under sources/ are included unmodified so the transformation is
+independently reproducible. They are not covered by this dedication.

@@ -1,0 +1,903 @@
+{
+  "document_id": "budget-2027",
+  "ok": true,
+  "checks": [
+    {
+      "check": 1,
+      "name": "source integrity",
+      "pass": true,
+      "detail": "sha256 matches manifest"
+    },
+    {
+      "check": 3,
+      "name": "no insertion",
+      "pass": true,
+      "detail": "every output token present in source"
+    },
+    {
+      "check": 4,
+      "name": "no omission",
+      "pass": true,
+      "detail": "every source token present in output"
+    },
+    {
+      "check": 5,
+      "name": "page anchors",
+      "pass": true,
+      "detail": "unique and ascending"
+    },
+    {
+      "check": 6,
+      "name": "TOC coverage",
+      "pass": true,
+      "detail": "47 sections tile the stream with no gaps or overlaps"
+    },
+    {
+      "check": 7,
+      "name": "front matter",
+      "pass": true,
+      "detail": "all sections conform"
+    },
+    {
+      "check": 2,
+      "name": "determinism",
+      "pass": true,
+      "detail": "enforced in CI: re-run extract.py and require an empty git diff"
+    },
+    {
+      "check": 8,
+      "name": "chunk graph",
+      "pass": true,
+      "detail": "147 chunks, ids unique, links resolve"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "front",
+      "title": "81st Budget Speech",
+      "slug": "front-81st-budget-speech",
+      "pdf_pages": [
+        259,
+        260
+      ],
+      "printed_pages": [
+        null,
+        "1"
+      ],
+      "source_tokens": 16,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "1",
+      "title": "Preamble",
+      "slug": "01-preamble",
+      "pdf_pages": [
+        260,
+        265
+      ],
+      "printed_pages": [
+        "1",
+        "6"
+      ],
+      "source_tokens": 2048,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "2",
+      "title": "Seven Strategic Objectives of the 2027 Budget",
+      "slug": "02-seven-strategic-objectives-of-the-2027-budget",
+      "pdf_pages": [
+        265,
+        269
+      ],
+      "printed_pages": [
+        "6",
+        "10"
+      ],
+      "source_tokens": 1197,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "3",
+      "title": "Medium-Term Macroeconomic and Fiscal Path",
+      "slug": "03-medium-term-macroeconomic-and-fiscal-path",
+      "pdf_pages": [
+        269,
+        270
+      ],
+      "printed_pages": [
+        "10",
+        "11"
+      ],
+      "source_tokens": 525,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "4",
+      "title": "Strengthening the Legal Framework",
+      "slug": "04-strengthening-the-legal-framework",
+      "pdf_pages": [
+        270,
+        274
+      ],
+      "printed_pages": [
+        "11",
+        "15"
+      ],
+      "source_tokens": 1105,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "5",
+      "title": "Free Trade Agreements",
+      "slug": "05-free-trade-agreements",
+      "pdf_pages": [
+        274,
+        274
+      ],
+      "printed_pages": [
+        "15",
+        "15"
+      ],
+      "source_tokens": 152,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "6",
+      "title": "Energy",
+      "slug": "06-energy",
+      "pdf_pages": [
+        274,
+        277
+      ],
+      "printed_pages": [
+        "15",
+        "18"
+      ],
+      "source_tokens": 1227,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "7",
+      "title": "Digital Transformation and Development towards a Digital Era",
+      "slug": "07-digital-transformation-and-development-towards-a-dig",
+      "pdf_pages": [
+        277,
+        281
+      ],
+      "printed_pages": [
+        "18",
+        "22"
+      ],
+      "source_tokens": 1076,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "8",
+      "title": "Education",
+      "slug": "08-education",
+      "pdf_pages": [
+        281,
+        284
+      ],
+      "printed_pages": [
+        "22",
+        "25"
+      ],
+      "source_tokens": 1037,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "9",
+      "title": "Towards an Economic Transformation through Research, Development and Innovation",
+      "slug": "09-towards-an-economic-transformation-through-research",
+      "pdf_pages": [
+        284,
+        285
+      ],
+      "printed_pages": [
+        "25",
+        "26"
+      ],
+      "source_tokens": 337,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "10",
+      "title": "Development of Expressways and Highways",
+      "slug": "10-development-of-expressways-and-highways",
+      "pdf_pages": [
+        285,
+        287
+      ],
+      "printed_pages": [
+        "26",
+        "28"
+      ],
+      "source_tokens": 521,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "11",
+      "title": "Railway Electrification",
+      "slug": "11-railway-electrification",
+      "pdf_pages": [
+        287,
+        287
+      ],
+      "printed_pages": [
+        "28",
+        "28"
+      ],
+      "source_tokens": 127,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "12",
+      "title": "Micro, Small and Medium Enterprises Sector",
+      "slug": "12-micro-small-and-medium-enterprises-sector",
+      "pdf_pages": [
+        287,
+        290
+      ],
+      "printed_pages": [
+        "28",
+        "31"
+      ],
+      "source_tokens": 867,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "13",
+      "title": "Port Development",
+      "slug": "13-port-development",
+      "pdf_pages": [
+        290,
+        291
+      ],
+      "printed_pages": [
+        "31",
+        "32"
+      ],
+      "source_tokens": 538,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "14",
+      "title": "Development of Infrastructure in the Aviation Sector",
+      "slug": "14-development-of-infrastructure-in-the-aviation-sector",
+      "pdf_pages": [
+        291,
+        293
+      ],
+      "printed_pages": [
+        "32",
+        "34"
+      ],
+      "source_tokens": 478,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "15",
+      "title": "Industry, Trade and Investment",
+      "slug": "15-industry-trade-and-investment",
+      "pdf_pages": [
+        293,
+        295
+      ],
+      "printed_pages": [
+        "34",
+        "36"
+      ],
+      "source_tokens": 797,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "16",
+      "title": "Fisheries Industry",
+      "slug": "16-fisheries-industry",
+      "pdf_pages": [
+        295,
+        296
+      ],
+      "printed_pages": [
+        "36",
+        "37"
+      ],
+      "source_tokens": 463,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "17",
+      "title": "Agriculture",
+      "slug": "17-agriculture",
+      "pdf_pages": [
+        296,
+        301
+      ],
+      "printed_pages": [
+        "37",
+        "42"
+      ],
+      "source_tokens": 1487,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "18",
+      "title": "Plantation Sector",
+      "slug": "18-plantation-sector",
+      "pdf_pages": [
+        301,
+        302
+      ],
+      "printed_pages": [
+        "42",
+        "43"
+      ],
+      "source_tokens": 449,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "19",
+      "title": "Sports",
+      "slug": "19-sports",
+      "pdf_pages": [
+        302,
+        304
+      ],
+      "printed_pages": [
+        "43",
+        "45"
+      ],
+      "source_tokens": 443,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "20",
+      "title": "Social Protection and Empowerment",
+      "slug": "20-social-protection-and-empowerment",
+      "pdf_pages": [
+        304,
+        306
+      ],
+      "printed_pages": [
+        "45",
+        "47"
+      ],
+      "source_tokens": 819,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "21",
+      "title": "Disaster Management",
+      "slug": "21-disaster-management",
+      "pdf_pages": [
+        306,
+        307
+      ],
+      "printed_pages": [
+        "47",
+        "48"
+      ],
+      "source_tokens": 154,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "22",
+      "title": "Health Services",
+      "slug": "22-health-services",
+      "pdf_pages": [
+        307,
+        309
+      ],
+      "printed_pages": [
+        "48",
+        "50"
+      ],
+      "source_tokens": 844,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "23",
+      "title": "Tourism Sector",
+      "slug": "23-tourism-sector",
+      "pdf_pages": [
+        309,
+        311
+      ],
+      "printed_pages": [
+        "50",
+        "52"
+      ],
+      "source_tokens": 450,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "24",
+      "title": "Environmental Management",
+      "slug": "24-environmental-management",
+      "pdf_pages": [
+        311,
+        313
+      ],
+      "printed_pages": [
+        "52",
+        "54"
+      ],
+      "source_tokens": 891,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "25",
+      "title": "Transport",
+      "slug": "25-transport",
+      "pdf_pages": [
+        313,
+        315
+      ],
+      "printed_pages": [
+        "54",
+        "56"
+      ],
+      "source_tokens": 649,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "26",
+      "title": "Drinking Water Supply",
+      "slug": "26-drinking-water-supply",
+      "pdf_pages": [
+        315,
+        316
+      ],
+      "printed_pages": [
+        "56",
+        "57"
+      ],
+      "source_tokens": 384,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "27",
+      "title": "Housing and Urban Development",
+      "slug": "27-housing-and-urban-development",
+      "pdf_pages": [
+        316,
+        319
+      ],
+      "printed_pages": [
+        "57",
+        "60"
+      ],
+      "source_tokens": 1068,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "28",
+      "title": "Public Security",
+      "slug": "28-public-security",
+      "pdf_pages": [
+        319,
+        321
+      ],
+      "printed_pages": [
+        "60",
+        "62"
+      ],
+      "source_tokens": 366,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "29",
+      "title": "Judiciary",
+      "slug": "29-judiciary",
+      "pdf_pages": [
+        321,
+        322
+      ],
+      "printed_pages": [
+        "62",
+        "63"
+      ],
+      "source_tokens": 389,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "30",
+      "title": "National Security",
+      "slug": "30-national-security",
+      "pdf_pages": [
+        322,
+        322
+      ],
+      "printed_pages": [
+        "63",
+        "63"
+      ],
+      "source_tokens": 226,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "31",
+      "title": "Cultural and National Heritage",
+      "slug": "31-cultural-and-national-heritage",
+      "pdf_pages": [
+        322,
+        323
+      ],
+      "printed_pages": [
+        "63",
+        "64"
+      ],
+      "source_tokens": 392,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "32",
+      "title": "Mass Media",
+      "slug": "32-mass-media",
+      "pdf_pages": [
+        323,
+        324
+      ],
+      "printed_pages": [
+        "64",
+        "65"
+      ],
+      "source_tokens": 109,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "33",
+      "title": "Clean Sri Lanka",
+      "slug": "33-clean-sri-lanka",
+      "pdf_pages": [
+        324,
+        325
+      ],
+      "printed_pages": [
+        "65",
+        "66"
+      ],
+      "source_tokens": 263,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "34",
+      "title": "Public Administration and Public Services",
+      "slug": "34-public-administration-and-public-services",
+      "pdf_pages": [
+        325,
+        327
+      ],
+      "printed_pages": [
+        "66",
+        "68"
+      ],
+      "source_tokens": 678,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "35",
+      "title": "Public Sector Salaries and Pensions",
+      "slug": "35-public-sector-salaries-and-pensions",
+      "pdf_pages": [
+        327,
+        333
+      ],
+      "printed_pages": [
+        "68",
+        "74"
+      ],
+      "source_tokens": 1989,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "36",
+      "title": "Tax Policy Proposals",
+      "slug": "36-tax-policy-proposals",
+      "pdf_pages": [
+        333,
+        338
+      ],
+      "printed_pages": [
+        "74",
+        "79"
+      ],
+      "source_tokens": 1550,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "37",
+      "title": "Borrowing Limit",
+      "slug": "37-borrowing-limit",
+      "pdf_pages": [
+        338,
+        338
+      ],
+      "printed_pages": [
+        "79",
+        "79"
+      ],
+      "source_tokens": 62,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "38",
+      "title": "Supplementary Estimate for Ditwah Reconstruction – 2027",
+      "slug": "38-supplementary-estimate-for-ditwah-reconstruction-202",
+      "pdf_pages": [
+        338,
+        338
+      ],
+      "printed_pages": [
+        "79",
+        "79"
+      ],
+      "source_tokens": 125,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": false
+    },
+    {
+      "section_id": "39",
+      "title": "Conclusion",
+      "slug": "39-conclusion",
+      "pdf_pages": [
+        338,
+        342
+      ],
+      "printed_pages": [
+        "79",
+        "83"
+      ],
+      "source_tokens": 1091,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "medium",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A1",
+      "title": "Summary of Revenue Impact – 2027",
+      "slug": "a1-summary-of-revenue-impact-2027",
+      "pdf_pages": [
+        342,
+        343
+      ],
+      "printed_pages": [
+        "83",
+        "84"
+      ],
+      "source_tokens": 82,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A2",
+      "title": "Summary of New Expenditure Proposals Presented in the 2027 Budget Speech",
+      "slug": "a2-summary-of-new-expenditure-proposals-presented-in-th",
+      "pdf_pages": [
+        343,
+        347
+      ],
+      "printed_pages": [
+        "84",
+        "88"
+      ],
+      "source_tokens": 723,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A3",
+      "title": "Summary of the Budget Estimates – 2027",
+      "slug": "a3-summary-of-the-budget-estimates-2027",
+      "pdf_pages": [
+        347,
+        349
+      ],
+      "printed_pages": [
+        "88",
+        "90"
+      ],
+      "source_tokens": 307,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A4",
+      "title": "Gross Borrowings Requirement - 2027",
+      "slug": "a4-gross-borrowings-requirement-2027",
+      "pdf_pages": [
+        349,
+        350
+      ],
+      "printed_pages": [
+        "90",
+        "91"
+      ],
+      "source_tokens": 94,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A5",
+      "title": "Technical Notes",
+      "slug": "a5-technical-notes",
+      "pdf_pages": [
+        350,
+        357
+      ],
+      "printed_pages": [
+        "91",
+        "98"
+      ],
+      "source_tokens": 1384,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A6",
+      "title": "Revision of Allowances for Public Officers",
+      "slug": "a6-revision-of-allowances-for-public-officers",
+      "pdf_pages": [
+        357,
+        362
+      ],
+      "printed_pages": [
+        "98",
+        "103"
+      ],
+      "source_tokens": 729,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    },
+    {
+      "section_id": "A7",
+      "title": "Summary of Key New Capital Expenditure included in the 2027 Estimates",
+      "slug": "a7-summary-of-key-new-capital-expenditure-included-in-t",
+      "pdf_pages": [
+        362,
+        366
+      ],
+      "printed_pages": [
+        "103",
+        null
+      ],
+      "source_tokens": 1421,
+      "insertions": 0,
+      "omissions": 0,
+      "heading_confidence": "high",
+      "has_verbatim": true
+    }
+  ],
+  "human_reviewed_pages": []
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "budget-2027",
+  "pdf_range": [
+    259,
+    366
+  ],
+  "$comment": "Every transformation applied to the source is declared here. verify.py treats anything removed that is NOT matched by a drop rule as a failure, so this file is the complete, auditable list of what the pipeline takes out.",
+  "drop_rules": [
+    {
+      "id": "printed-page-number",
+      "scope": "page-first-line",
+      "enforced_by": "tools/common.py:split_page",
+      "pattern": "^\\d{1,3}$",
+      "reason": "The printed folio number is page furniture, not content. It is removed structurally at the first line of each page and preserved as the <!-- p. N --> anchor. Scope matters: applied to every line this pattern would also delete table cells such as '37'."
+    }
+  ],
+  "verbatim_pages": [
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366
+  ],
+  "verbatim_reason": "Pages whose layout is tabular or multi-column (table_density > 0.40). Emitted as fenced verbatim blocks rather than reflowed into Markdown tables: token equality cannot prove a number is still in the right row, and reflowing is where silent corruption hides."
+}

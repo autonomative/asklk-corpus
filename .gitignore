@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Pending: pushing this needs the `workflow` OAuth scope.
+# Run `gh auth refresh -s workflow`, then remove this entry and commit it.
+.github/workflows/
